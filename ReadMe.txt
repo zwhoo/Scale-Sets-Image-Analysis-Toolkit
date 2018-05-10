@@ -23,12 +23,12 @@ If you use this software in your research, please cite some of the following ref
 3.  Zhongwen Hu, Qingquan Li*, Qin Zou, Qian Zhang, Guofeng Wu. 
     A Bi-level Scale-sets Model for Hierarchical Representation of Large Remote Sensing Images. 
     IEEE Transactions on Geoscience and Remote Sensing. 
-    2016, 54(12), 7366-7377.(SCI). 
+    2016, 54(12), 7366-7377. 
 
 4.  Zhongwen Hu*, Zhaocong Wu, Qian Zhang, Qian Fan, Jiahui Xu.
     A Spatially-Constrained Color-Texture Model for Hierarchial VHR Image Segmentation.
     IEEE Geoscience and Remote Sensing Letters. 
-    2013, 10(1), 120-124.(SCI).  
+    2013, 10(1), 120-124. 
 
 
     If you have any questions, please feel free to contact Dr. Zhongwen Hu, email: zwhoo@szu.edu.cn
