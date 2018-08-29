@@ -1,4 +1,4 @@
-This is demo and free software provided by Dr. Zhongwen Hu, Shenzhen University.
+This is demo and freeware provided by Dr. Zhongwen Hu, Shenzhen University.
 
 The toolkit can be used for scale-sets based analysis of remote sensing images.
 
