@@ -29,6 +29,8 @@ If you use this software in your research, please cite some of the following ref
     A Spatially-Constrained Color-Texture Model for Hierarchial VHR Image Segmentation.
     IEEE Geoscience and Remote Sensing Letters. 
     2013, 10(1), 120-124. 
+    
+    SuperSIAT 2.0 is coming...The new version added two functions, includes scale-sets-based image classification and optimal scale parameter estimation. The new software will be avalible once the new paper is accepted.
 
 
     If you have any questions, please feel free to contact Dr. Zhongwen Hu, email: zwhoo@szu.edu.cn
