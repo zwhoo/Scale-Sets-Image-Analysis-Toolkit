@@ -1,6 +1,8 @@
 This is demo and freeware provided by Dr. Zhongwen Hu, Shenzhen University.
 
-The toolkit can be used for scale-sets based analysis of remote sensing images.
+The toolkit is developed using miscrosoft visual C++ 2017. The realsed version is built with Windows10 X64 settings.
+
+It can be used for scale-sets based analysis of remote sensing images.
 
 It can produced scale-sets hierarchy with very large images (ie. 20000*20000 pixels), however, 
 restricted by some cooperate agreements, the acdemic software outputs segmentation and 
