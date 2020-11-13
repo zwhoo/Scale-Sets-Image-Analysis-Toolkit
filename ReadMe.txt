@@ -1,6 +1,9 @@
 This is demo and freeware provided by Dr. Zhongwen Hu, Shenzhen University.
 
 The toolkit is developed using miscrosoft visual C++ 2017. The realsed version is built with Windows10 X64 settings.
+You may need to install the Visual C++ 2017 redistributable (x64) pakage. It can be downloaded from:
+
+https://download.microsoft.com/download/B/7/A/B7A6D5AB-2606-4942-BE19-996D105376A4/vc_redist.x64.exe
 
 It can be used for scale-sets based analysis of remote sensing images.
 
