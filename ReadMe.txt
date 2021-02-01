@@ -46,3 +46,7 @@ If you use this software in your research, please cite some of the following ref
     Enjoy it!
 
     2020-11-11
+    
+    
+    SuperSIAT 2.1 updated, some bugs were fixed. 2021-02-01
+
