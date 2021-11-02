@@ -15,9 +15,10 @@ An simple illustration is provided in the user guide book.
 
 If you use this software in your research, please cite some of the following references:
 
-1.  Zhongwen Hu, Tiezhu Shi, Chisheng Wang, Guofeng Wu, and Qingquan Li, Multi-scale 
-    Object-based Land Cover Classification with Automatic Optimal Scale Parameter Estimation, Submmited 
-    to IEEE Trans. Geosci. Remote Sens. 2020.
+1.  Zhongwen Hu, Tiezhu Shi, Chisheng Wang, Guofeng Wu, and Qingquan Li,
+    Scale-sets image classification with hierarchical sample enriching and automatic scale selection 
+    International Journal of Applied Earth Observation and Geoinformation,
+    2021, 105:102605
 
 
 2.  Zhongwen Hu*, Qian Zhang*, Qin Zou, Qingquan Li, Guofeng Wu. 
