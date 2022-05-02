@@ -49,5 +49,5 @@ If you use this software in your research, please cite some of the following ref
     2022-05-02
     
     
-    SuperSIAT 2.2 updated, some bugs were fixed. 2021-02-01
+    SuperSIAT 2.2 updated, some bugs were fixed. 2022-05-02
 
